@@ -1,0 +1,10 @@
+name: softdev_v2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - geopandas
+  - jupyterlab
+  - rasterio
+  - pyrosar
+prefix:
